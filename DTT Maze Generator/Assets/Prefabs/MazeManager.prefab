@@ -45,11 +45,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodePrefab: {fileID: 6438641585725021175, guid: 2f342fe57a919654aa7547d0a143e4b4, type: 3}
   mazeSize: {x: 10, y: 10}
-  generateSpeed: 0
-  unitySliders:
-  - {fileID: 0}
-  - {fileID: 0}
-  textMesh:
-  - {fileID: 0}
-  - {fileID: 0}
-  isGenerationType: 0
+  nodeSize: 0
