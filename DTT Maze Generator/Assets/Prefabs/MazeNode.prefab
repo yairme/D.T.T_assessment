@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6438641585725021175}
   m_Layer: 0
   m_Name: MazeNode
-  m_TagString: Untagged
+  m_TagString: MazeNode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
